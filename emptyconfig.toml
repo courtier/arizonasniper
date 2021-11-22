@@ -1,0 +1,21 @@
+#main accounts token
+mainToken = ""
+#claim the sniped nitros on main account, if false nitro will be claimed on whichever token sniped it
+claimOnMain = true
+#check messages on main account
+snipeOnMain = false
+
+#alt accounts tokens
+altTokens = []
+#use alts to snipe
+useAlts = true
+
+#custom webhook for when you snipe a nitro
+customWebhookNitro = true
+#custom webhook link, will be used if custom webhooks are enabled
+customWebhookLink = ""
+
+#if removeDuplicates=true, nitro codes will be saved and won't be checked again
+removeDuplicates = true
+#if true, duplicate nitros will be shown on console
+showDuplicates = true
